@@ -1,0 +1,16 @@
+D:\Users\Mariana\Visual Studio Projects\GereOficicina\GereOficicina\bin\Debug\GereOficicina.exe.config
+D:\Users\Mariana\Visual Studio Projects\GereOficicina\GereOficicina\bin\Debug\GereOficicina.exe
+D:\Users\Mariana\Visual Studio Projects\GereOficicina\GereOficicina\bin\Debug\GereOficicina.pdb
+D:\Users\Mariana\Visual Studio Projects\GereOficicina\GereOficicina\bin\Debug\EntityFramework.dll
+D:\Users\Mariana\Visual Studio Projects\GereOficicina\GereOficicina\bin\Debug\EntityFramework.SqlServer.dll
+D:\Users\Mariana\Visual Studio Projects\GereOficicina\GereOficicina\bin\Debug\EntityFramework.xml
+D:\Users\Mariana\Visual Studio Projects\GereOficicina\GereOficicina\bin\Debug\EntityFramework.SqlServer.xml
+D:\Users\Mariana\Visual Studio Projects\GereOficicina\GereOficicina\obj\Debug\GereOficicina.csproj.AssemblyReference.cache
+D:\Users\Mariana\Visual Studio Projects\GereOficicina\GereOficicina\obj\Debug\GereOficicina.csproj.SuggestedBindingRedirects.cache
+D:\Users\Mariana\Visual Studio Projects\GereOficicina\GereOficicina\obj\Debug\GereOficicina.Form1.resources
+D:\Users\Mariana\Visual Studio Projects\GereOficicina\GereOficicina\obj\Debug\GereOficicina.Properties.Resources.resources
+D:\Users\Mariana\Visual Studio Projects\GereOficicina\GereOficicina\obj\Debug\GereOficicina.csproj.GenerateResource.cache
+D:\Users\Mariana\Visual Studio Projects\GereOficicina\GereOficicina\obj\Debug\GereOficicina.csproj.CoreCompileInputs.cache
+D:\Users\Mariana\Visual Studio Projects\GereOficicina\GereOficicina\obj\Debug\GereOficicina.csproj.CopyComplete
+D:\Users\Mariana\Visual Studio Projects\GereOficicina\GereOficicina\obj\Debug\GereOficicina.exe
+D:\Users\Mariana\Visual Studio Projects\GereOficicina\GereOficicina\obj\Debug\GereOficicina.pdb
